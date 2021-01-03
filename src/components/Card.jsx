@@ -36,7 +36,7 @@ function Card(props) {
           <h1>Soiées JDR</h1>
           <h3>Tout les jeudi soir, au café Le villageoi, à partir de 19h !</h3>
         </div>
-        <Button>Inscris toi !</Button>
+        <Button>Inscris toi!</Button>
       </Describe>
     </CardDiv>
   );
